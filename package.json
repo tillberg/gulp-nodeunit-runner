@@ -34,7 +34,7 @@
   "dependencies": {
     "through2": "0.5.1",
     "gulp-util": "2.2.17",
-    "nodeunit": ">=0.8.6"
+    "nodeunit": "git://github.com/tillberg/nodeunit.git#master"
   },
   "devDependencies": {
     "mocha": "1.20.1",
